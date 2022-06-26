@@ -1,0 +1,22 @@
+body {
+    background-color: #000000;
+    text-align: center;
+    color: white;
+}
+
+#ClickButton {
+    height: 50px;
+    width: 50px;
+}
+
+#Name {
+    position: absolute;
+    top: 1000px;
+    align-self:center;
+    text-align: center;
+    left: 870px;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
